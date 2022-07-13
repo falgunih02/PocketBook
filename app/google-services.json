@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361459391649",
+    "firebase_url": "https://registeractivity-e0aa2.firebaseio.com",
+    "project_id": "registeractivity-e0aa2",
+    "storage_bucket": "registeractivity-e0aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361459391649:android:75e2b432628e114ff4e4e0",
+        "android_client_info": {
+          "package_name": "com.example.registeractivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361459391649-he3b6hfm8hc69ged5eiqms1guk4joh2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlMVFQIWeb9aMLruNBm7qv_A6to7KQKd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361459391649-he3b6hfm8hc69ged5eiqms1guk4joh2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

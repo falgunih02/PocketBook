@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    <style name="PocketBook.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <!-- Customize your theme here. -->
+    <style name="CustomToolBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/bgColor</item>
+    </style>
+
+    <!-- Customize your menu theme here. -->
+    <style name="CustomMenu" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/btColor</item>
+        <item name="android:overlapAnchor">false</item>
+        <item name="android:dropDownVerticalOffset">-4dp</item>
+    </style>
+</resources>

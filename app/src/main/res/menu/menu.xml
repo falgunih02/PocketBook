@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ug"
+        android:title="User Guide"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/au"
+        android:title="About us"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+
+</menu>
